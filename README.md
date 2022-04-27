@@ -1,7 +1,7 @@
 # MyOS
 
-Requirements:
+## Requirements
 
-nasm
-dd
-VBoxManage
+[nasm](https://www.nasm.us)
+[dd](http://www.chrysocome.net/dd)
+[VBoxManage](https://www.virtualbox.org)
