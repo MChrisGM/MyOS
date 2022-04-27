@@ -1,5 +1,7 @@
 # MyOS
 
+Custom Operating System built in Windows
+
 ## Requirements
 
 * [nasm](https://www.nasm.us)
